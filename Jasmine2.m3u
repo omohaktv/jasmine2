@@ -2,20 +2,20 @@
 #EXTINF:-1, WWE SPORTS
  
 #EXTINF:0,|UK| TELECOM WWE FHD EU
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54323.m3u8
-#EXTINF:0,|UK| UK WWE FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/48972.m3u8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50866
+#EXTINF:0,|UK| UK WWE FHD US
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://armada123.ddns.net:2082/DM_USACANADA/bBTUYpfQ/143092
 #EXTINF:0,|UK| WWE NETWORK FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54238.m3u8
-#EXTINF:0,|DSTV| WWE KRD FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/129878
-#EXTINF:0,|UK| WWE NETFLIX UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/77034
-#EXTINF:0,|EU| WWE HD EU
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://xtrts.rasl.info:2082/Achrafplt_914689/Bktb63Qy/13142
+#EXTVLCOPT:http-user-agent=tvslayer.copy/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://novabox.vip:8080/live/ktQKlr59dD/0hg1knIdud/59230.m3u8
+#EXTINF:0,|DSTV| WWE VIP
+#EXTVLCOPT:http-user-agent=tvslayer.copy/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://novabox.vip:8080/live/ktQKlr59dD/0hg1knIdud/62125.m3u8
+#EXTINF:0,|UK| WWE OSN
+#EXTVLCOPT:http-user-agent=tvslayer.copy/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4 
+http://novabox.vip:8080/live/ktQKlr59dD/0hg1knIdud/73902.m3u8
+#EXTINF:0,|EU| WWE FASTLANE
+#EXTVLCOPT:http-user-agent=tvslayer.copy/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://novabox.vip:8080/series/ktQKlr59dD/0hg1knIdud/59538.mp4
